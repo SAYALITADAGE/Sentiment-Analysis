@@ -24,3 +24,6 @@ The model performance is measured using accuracy, precision, recall, and F1-scor
 The task demonstrates the end-to-end pipeline of sentiment analysis: loading data, preprocessing, feature extraction, model training, prediction, evaluation, and analysis.
 The final deliverable is a Jupyter Notebook showcasing all these steps along with a short analysis of the results.
 This task helps learners understand NLP concepts, text preprocessing, feature extraction, and machine learning classification in a practical way.
+
+OUTPUT:
+<img width="1917" height="542" alt="Image" src="https://github.com/user-attachments/assets/79595bcb-2c3c-4fe7-b514-b17a5f16aeb0" />
