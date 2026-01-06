@@ -1,16 +1,17 @@
 # Sentiment-Analysis
-COMPANY:CODTECH IT SOLUTIONS
+*COMPANY*:CODTECH IT SOLUTIONS
 
-NAME:SAYALI RAOSAHEB TADAGE
+*NAME*:SAYALI RAOSAHEB TADAGE
 
-INTERN ID:CTISAK23
+*INTERN ID*:CTISAK23
 
-DOMAIN:MACHINE LEARNING
+*DOMAIN*:MACHINE LEARNING
 
-DURATION:4 WEEKS
+*DURATION*:4 WEEKS
 
-MENTOR:NEELA SANTOSH
+*MENTOR*:NEELA SANTOSH
 
+Description:
 The task is to perform sentiment analysis on customer reviews.
 Sentiment analysis is the process of determining whether text expresses a positive or negative opinion.
 The goal is to build a machine learning model that can automatically classify reviews based on sentiment.
