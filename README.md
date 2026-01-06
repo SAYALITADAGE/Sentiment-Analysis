@@ -27,3 +27,5 @@ This task helps learners understand NLP concepts, text preprocessing, feature ex
 
 OUTPUT:
 <img width="1917" height="542" alt="Image" src="https://github.com/user-attachments/assets/79595bcb-2c3c-4fe7-b514-b17a5f16aeb0" />
+
+<img width="1920" height="535" alt="Image" src="https://github.com/user-attachments/assets/809ae6a6-8fe3-45fc-b288-6111e652320d" />
